@@ -1,0 +1,17 @@
+{
+  "name": "gradle-investigation",
+  "version": "0.1.0",
+  "scripts": {
+    "hello": "echo \"Hello, world!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0918nobita/gradle-investigation.git"
+  },
+  "author": "0918nobita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0918nobita/gradle-investigation/issues"
+  },
+  "homepage": "https://github.com/0918nobita/gradle-investigation#readme"
+}
